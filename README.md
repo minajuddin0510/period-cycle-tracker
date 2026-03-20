@@ -8,7 +8,7 @@ A beautiful, private, and easy to use period & cycle tracker — no account, no 
 
 ## 📸 Preview
 
-![Period Cycle Tracker Preview](preview.png)
+preview.png
 
 ## ✨ Features
 
